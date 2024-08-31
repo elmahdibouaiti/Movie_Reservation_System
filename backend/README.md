@@ -69,13 +69,13 @@ The repository is organized into three main folders:
 
 The following UML diagram illustrates the database schema:
 
-![Database Schema](./Docs/db_schema.png)
+![Database Schema](https://github.com/elmahdibouaiti/Movie_Reservation_System/blob/main/Docs/db_schema.png)
 
 ## User Authentication Flow
 
 The sequence diagram below illustrates the user authentication process:
 
-![User Authentication Sequence](./Docs/user_schema.png)
+![User Authentication Sequence](https://github.com/elmahdibouaiti/Movie_Reservation_System/blob/main/Docs/user_schema.png)
 6. **Run Migrations:**
 
    Run the following command to create the database schema:
