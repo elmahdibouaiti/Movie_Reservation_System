@@ -69,7 +69,7 @@ The repository is organized into three main folders:
 
 The following UML diagram illustrates the database schema:
 
-![Database Schema](Docs/database-schema.png)
+![Database Schema](./Docs/database-schema.png)
 
 ## User Authentication Flow
 
