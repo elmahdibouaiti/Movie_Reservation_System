@@ -2,7 +2,7 @@
 # Movie Reservation Service
 
 This project is a Laravel-based backend system for a movie reservation service. It allows users to sign up, log in, browse movies, reserve seats for specific showtimes, and manage their reservations.
-
+from [roadmap.sh](https://roadmap.sh/projects/movie-reservation-system)
 ## Project Structure
 
 The repository is organized into three main folders:
@@ -69,13 +69,13 @@ The repository is organized into three main folders:
 
 The following UML diagram illustrates the database schema:
 
-![Database Schema](docs/database-schema.png)
+![Database Schema](./Docs/database-schema.png)
 
 ## User Authentication Flow
 
 The sequence diagram below illustrates the user authentication process:
 
-![User Authentication Sequence](docs/authentication-sequence.png)
+![User Authentication Sequence](Docs/authentication-sequence.png)
 6. **Run Migrations:**
 
    Run the following command to create the database schema:
